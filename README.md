@@ -56,8 +56,8 @@ Keystone is impossible without generous support from [our sponsors](/SPONSORS.TX
 
 [CREDITS.TXT](CREDITS.TXT) records other important contributors of our project.
 
-If you want to contribute, please pick up something from our [Github issues](https://github.com/keystone-engine/keystone/issues).
+If you want to contribute, please pick up something from our [Github issues](https://github.com/trhacknon/keystone/issues).
 
-We also maintain a list of more challenged problems in a [TODO list](https://github.com/keystone-engine/keystone/wiki/TODO).
+We also maintain a list of more challenged problems in a [TODO list](https://github.com/trhacknon/keystone/wiki/TODO).
 
 
